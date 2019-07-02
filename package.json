@@ -1,0 +1,36 @@
+{
+  "name": "divi-flowerstore-child-theme",
+  "version": "0.1.2",
+  "description": "Child theme template for Divi",
+  "main": "Gruntfile.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegantthemes/divi-flowerstore-child-theme.git"
+  },
+  "author": "Andy Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elegantthemes/divi-flowerstore-child-theme/issues"
+  },
+  "homepage": "https://github.com/elegantthemes/divi-flowerstore-child-theme#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "divi",
+    "child",
+    "theme",
+    "gulp",
+    "tasks"
+  ]
+}
